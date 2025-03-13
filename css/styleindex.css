@@ -13,7 +13,7 @@ body, html {
 
 /* Full-screen background image */
 body {
-    background: url('nature1.jpg') no-repeat center center fixed; /* Make sure the image path is correct */
+    background: url('../images/nature1.jpg') no-repeat center center fixed; /* Make sure the image path is correct */
     background-size: cover;
 }
 
